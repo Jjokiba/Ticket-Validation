@@ -15,6 +15,7 @@ namespace frmCinema
         public void conectar()
         {
             string diretorio = Directory.GetCurrentDirectory();
+            diretorio = diretorio.Remove(diretorio.Count() - 10);
             conexao.ConnectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=" + diretorio + "\\banco.mdf";
             conexao.Open();
         }
