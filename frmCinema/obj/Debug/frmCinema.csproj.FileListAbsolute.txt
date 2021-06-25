@@ -1,0 +1,80 @@
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\bin\Debug\frmCinema.exe.config
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\bin\Debug\banco.mdf
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\bin\Debug\banco_log.ldf
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\bin\Debug\frmCinema.exe
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\bin\Debug\frmCinema.pdb
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.exe
+c:\users\carlinhos_note2\documents\visual studio 2012\Projects\Cinema\frmCinema\obj\Debug\frmCinema.pdb
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\bin\Debug\frmCinema.exe.config
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.exe
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.pdb
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\bin\Debug\banco.mdf
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\bin\Debug\banco_log.ldf
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\bin\Debug\frmCinema.exe
+G:\Meu Drive\Minha\IFSP\2019-2SM\LPG\Cinema\frmCinema\bin\Debug\frmCinema.pdb
+C:\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.exe.config
+C:\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.exe
+C:\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.pdb
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.exe.config
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.exe
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.pdb
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\banco.mdf
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\banco_log.ldf
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.exe
+D:\Linguagem de Programação - 2\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.exe.config
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\banco.mdf
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\banco_log.ldf
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\bin\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe.config
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco.mdf
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco_log.ldf
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+C:\Users\Usuario.PC\Desktop\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe.config
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco.mdf
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco_log.ldf
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.pdb
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe.config
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.exe
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.pdb
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco.mdf
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\banco_log.ldf
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.exe
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\bin\Debug\frmCinema.pdb
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csprojResolveAssemblyReference.cache
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.frmCinema.resources
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.Properties.Resources.resources
+C:\Users\jujub\OneDrive\Área de Trabalho\Piriquito\Faculdade\3º Sem\.LP2\Projeto Ticket\A8 - Aula 6 - Cinema - Hiago Indalecio & João Vitor Raboni Ribeiro - Copia\frmCinema\obj\Debug\frmCinema.csproj.GenerateResource.Cache
